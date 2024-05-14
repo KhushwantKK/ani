@@ -1,0 +1,9 @@
+#imagecarousel{
+    width: 1560px;
+    height: 500px;
+    display: flex;
+    background-size: cover;
+    background-position: center;
+
+}
+  
